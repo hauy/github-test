@@ -16,7 +16,7 @@
 
 ##### 具体实现
 
-- 同步通信涉及接口包括用户信息(https://api.catl.com/core/v0/users/userId)、车辆信息(https://api.catl.com/core/v0/vehicles/vehicleId)及订单管理(https://api.catl.com/core/v0/order/orderId)，具体接口内容及线上环境在4月8日前提供
+- 同步通信涉及接口包括用户信息(https://api.catl.com/core/v0/users/userId) 车辆信息(https://api.catl.com/core/v0/vehicles/vehicleId) 及订单管理(https://api.catl.com/core/v0/order/orderId) ，具体接口内容及线上环境在4月8日前提供
 
 - 异步通信默认使用json格式进行交互，传输前需先将数据序列化（转为字符串），具体内容在4月8日前提供，线上环境在4月16日前提供
 
